@@ -1,4 +1,5 @@
 Author: Haoran Fang
+
 References: Library of exoplayer, apis from Supabase, ChatGPT
 
 A screen shot from the app:
